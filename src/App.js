@@ -14,13 +14,13 @@ function App() {
                     <div className="container">
                         <Switch>
                             <Route path="/contact">
-                                <Home />
+                                <p>Contact</p>
                             </Route>
                             <Route path="/about">
                                 <p>About</p>
                             </Route>
                             <Route path="/">
-                                <p>Home</p>
+                                <Home />
                             </Route>
                         </Switch>
                     </div>

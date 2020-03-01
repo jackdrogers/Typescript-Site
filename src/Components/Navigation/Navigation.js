@@ -1,5 +1,5 @@
 import React from 'react';
-import NavItem from './NavItem';
+import NavItem from '../NavItem/NavItem';
 import { Link } from 'react-router-dom';
 import './Navigation.css';
 

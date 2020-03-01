@@ -47,6 +47,11 @@ header {
     padding-right: .5rem;
     display: inline-block;
     height: 100%;
+    border-right: 1px solid #f3c056;
+}
+
+.navigation--items li:first-child {
+    border-left: 1px solid #f3c056;
 }
 
 .navigation--items--item {
