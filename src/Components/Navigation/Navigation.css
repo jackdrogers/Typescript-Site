@@ -25,6 +25,7 @@ header {
 .navigation--logo {
     background-color: #f3c056;
     margin-top: 20px;
+    margin-left: 20px;
     float: left;
     width: 50px;
     height: 50px;
